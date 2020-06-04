@@ -66,7 +66,6 @@ ClassicEditor.defaultConfig = {
 	toolbar: {
 		items: [
 			'heading',
-			'alignment',
 			'|',
 			'bold',
 			'italic',
@@ -74,11 +73,11 @@ ClassicEditor.defaultConfig = {
 			'bulletedList',
 			'numberedList',
 			'|',
+      'alignment',
 			'indent',
 			'outdent',
 			'|',
 			'imageUpload',
-			'blockQuote',
 			'insertTable',
 			'mediaEmbed',
 			'undo',
